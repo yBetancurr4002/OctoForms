@@ -1,0 +1,12 @@
+C:\Users\yeiso\Documents\Docencia\Proyectos\OctoForms\OctoForms.Models\bin\Debug\net9.0\OctoForms.Models.deps.json
+C:\Users\yeiso\Documents\Docencia\Proyectos\OctoForms\OctoForms.Models\bin\Debug\net9.0\OctoForms.Models.dll
+C:\Users\yeiso\Documents\Docencia\Proyectos\OctoForms\OctoForms.Models\bin\Debug\net9.0\OctoForms.Models.pdb
+C:\Users\yeiso\Documents\Docencia\Proyectos\OctoForms\OctoForms.Models\obj\Debug\net9.0\OctoForms.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeiso\Documents\Docencia\Proyectos\OctoForms\OctoForms.Models\obj\Debug\net9.0\OctoForms.Models.AssemblyInfoInputs.cache
+C:\Users\yeiso\Documents\Docencia\Proyectos\OctoForms\OctoForms.Models\obj\Debug\net9.0\OctoForms.Models.AssemblyInfo.cs
+C:\Users\yeiso\Documents\Docencia\Proyectos\OctoForms\OctoForms.Models\obj\Debug\net9.0\OctoForms.Models.csproj.CoreCompileInputs.cache
+C:\Users\yeiso\Documents\Docencia\Proyectos\OctoForms\OctoForms.Models\obj\Debug\net9.0\OctoForms.Models.sourcelink.json
+C:\Users\yeiso\Documents\Docencia\Proyectos\OctoForms\OctoForms.Models\obj\Debug\net9.0\OctoForms.Models.dll
+C:\Users\yeiso\Documents\Docencia\Proyectos\OctoForms\OctoForms.Models\obj\Debug\net9.0\refint\OctoForms.Models.dll
+C:\Users\yeiso\Documents\Docencia\Proyectos\OctoForms\OctoForms.Models\obj\Debug\net9.0\OctoForms.Models.pdb
+C:\Users\yeiso\Documents\Docencia\Proyectos\OctoForms\OctoForms.Models\obj\Debug\net9.0\ref\OctoForms.Models.dll
